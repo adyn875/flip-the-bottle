@@ -1,0 +1,17 @@
+{
+  "name": "FlipTheBottle",
+  "tree": {
+    "$className": "DataModel",
+    "children": [
+      {
+        "$path": "src/ServerScriptService"
+      },
+      {
+        "$path": "src/StarterPlayer"
+      },
+      {
+        "$path": "src/ReplicatedStorage"
+      }
+    ]
+  }
+}
